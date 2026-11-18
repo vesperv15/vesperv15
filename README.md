@@ -17,7 +17,7 @@ The repositories in this profile consist of my personal projects—places where 
 * **Backend and System** : FastAPI, OpenCV, Docker, GitHub Actions
 ---
 ### Communication and Connection
-**LinkedIn:**[Aslı Oral](www.linkedin.com/in/aslı-oral-71b583381)
+**LinkedIn:**[Aslı Oral](https://linkedin.com/in/aslı-oral-71b583381)
 
 ---
 * **These are research and development-level projects. I'm attempting to build a system by starting from first principles. I'm open to technical details as well as any feedback you may have.**
