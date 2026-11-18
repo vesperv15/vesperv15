@@ -1,35 +1,20 @@
-# Hi, I'm Aslı Oral 
-
-**AI Backend & Systems Engineer** specializing in autonomous agent architectures, production RAG pipelines, and high-performance backend systems. I build scalable, containerized microservices that bridge advanced AI models with robust infrastructure.
-
----
-
-###  Core Capabilities & Focus
-
-- **LLM Systems & RAG:** Multi-agent orchestration, tree-search reasoning loops (MCTS), custom vector memory banks, and tool-calling interfaces.
-- **Backend & APIs:** Asynchronous microservices built with **FastAPI**, high-throughput data pipelines, relational data modeling with **Supabase/PostgreSQL**, and background workers.
-- **Systems & Performance:** Low-latency memory optimizations, SIMD intrinsics, and zero-copy data processing bindings.
-- **DevOps & Infrastructure:** Containerized environments (**Docker / Docker Compose**), automated CI/CD pipelines (**GitHub Actions**), and production workflow engines.
+# Welcome my page, I'm Aslı.
+I'm a mathematics student, and I'm developing my skills in the fields of autonomous systems, low-level programming, and the underlying architectures of artificial intelligence. 
+The repositories in this profile consist of my personal projects—places where I combine my theoretical mathematical knowledge with code, learn through trial and error while experimenting with new technologies, and seek to understand how software systems "actually" work behind the scenes.
+**My Goal:** To become a skilled AI architect by mastering the first principles of systems. My primary motivation at present is to work on AI backend and embedded/autonomous systems projects—areas where I can develop high-performance, clean architectures despite hardware constraints.
 
 ---
-
-### Tech Stack
-
-- **Languages:** Python, C++, SQL
-- **Backend Frameworks:** FastAPI, AsyncIO, REST APIs, Supabase
-- **AI Infrastructure:** Vector Databases, LLM Orchestration, RAG, PyTorch
-- **DevOps & Tools:** Docker, Docker Compose, GitHub Actions, Linux, Git
+### What Do I Work On and Conduct Research Into?
+* Neuro-Symbolic Artificial Intelligence Architectures : To run my algorithms on hardware with limited resources—such as 15 GB of RAM—without relying on APIs, I am learning to optimize my Python prototypes using C++ and LibTorch, incorporating custom CUDA kernels.
+* Autonomous Systems and Sensor Mathematics : I'm using **C++20** to practice deterministic and static memory (zero-allocation) management. While implementing flight control and state estimation mathematics—such as the Extended Kalman Filter (EKF)—I am also working to reduce latency to the nanosecond level by utilizing AVX-256 SIMD instructions.
+* GPU Optimization and Image Processing : I'm experimenting with CUDA Streams and Pinned Memory techniques to achieve maximum efficiency with limited resources. I'm also conducting tests on "zero-copy" memory protocols to reduce the data transfer burden between the CPU and the GPU.
+* Automation and Data Pipelines : I'm gaining experience in backend architectures by building autonomous newsletters—powered by GitHub Actions and LLMs—that fetch and summarize academic mathematics papers from arXiv, as well as by developing RAG (Retrieval-Augmented Generation) gateways using **FastAPI**.
 
 ---
-
-### Featured Work
-
-- **AIDAN Core Engine:** Autonomous reasoning system combining search-tree planning (MCTS) with custom vector memory architectures.
-- **Automated Workflow Microservices:** Event-driven API services built using FastAPI, Supabase, and GitHub Actions for automated data ingestion and LLM processing.
-- **High-Performance Inference Modules:** Low-latency C++ SIMD optimizations and zero-copy buffer bindings for numeric compute workloads.
+### Tools I Use for My Development
+* **Languages** : C++ (C++17/20), Python, CUDA C++
+* **Artificial Intelligence and Mathematics** : PyTorch, Nano Transformers, EKF (Kalman Filtreleri)
+* **Backend and System** : FastAPI, OpenCV, Docker, GitHub Actions
 
 ---
-
-### Connect with Me
-
-- **LinkedIn:** [linkedin.com/in/aslı-oral-71b583381](https://www.linkedin.com/in/asl%C4%B1-oral-71b583381)
+* **These are research and development-level projects. I'm attempting to build a system by starting from first principles. I'm open to technical details as well as any feedback you may have.**
